@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE.PlexUpdater.System", "TE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE.PlexUpdater.Plex", "TE.PlexUpdater.Plex\TE.PlexUpdater.Plex.csproj", "{34A97B31-7736-45D3-A39E-F2A6EF24EACB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE.PlexUpdater.Plex.Tests", "TE.PlexUpdater.Plex.Tests\TE.PlexUpdater.Plex.Tests.csproj", "{FD7592C2-799E-4F1D-8236-3255716476EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{34A97B31-7736-45D3-A39E-F2A6EF24EACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34A97B31-7736-45D3-A39E-F2A6EF24EACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34A97B31-7736-45D3-A39E-F2A6EF24EACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7592C2-799E-4F1D-8236-3255716476EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7592C2-799E-4F1D-8236-3255716476EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7592C2-799E-4F1D-8236-3255716476EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7592C2-799E-4F1D-8236-3255716476EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
