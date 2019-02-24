@@ -46,6 +46,8 @@
     <Compile Include="Msi\MsiException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
+    <Compile Include="WinApi.cs" />
+    <Compile Include="WindowsUserSidNotFound.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
